@@ -27,8 +27,8 @@
 - 😄 Pronouns: He/His or She/Her
 - ⚡ Fun fact: I would love to work with same minded people like me as a Family.
 
-[![Linkedin: NithinRajulapati](https://img.shields.io/badge/-NithinRajulapati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/monesh-venkul-vommi-8a80b6174/)](https://www.linkedin.com/in/monesh-venkul-vommi-8a80b6174/)
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=monesh-venkul-vommi-8a80b6174" target="_blank">Follow on LinkedIn</a>
+[![Linkedin: NithinRajulapati](https://img.shields.io/badge/-NithinRajulapati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nithin-rajulapati-69133a1aa/)](https://www.linkedin.com/in/nithin-rajulapati-69133a1aa/)
+<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=nithin-rajulapati-69133a1aa/" target="_blank">Follow on LinkedIn</a>
 [![GitHub Nithin_Rajulapati](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/Nani1-glitch)
 [![website](https://img.shields.io/badge/PortfolioWebsite-Nithin_Rajulapati.live-2648ff?style=flat-square&logo=google-chrome)](https://nani1-glitch.github.io/portfolio/)
 
