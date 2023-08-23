@@ -9,7 +9,7 @@
 <a href="https://github.com/Nani1-glitch">
   <img align="left" alt=" Nithin Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-< :
+
 
 
 </a>
