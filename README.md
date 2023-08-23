@@ -4,13 +4,14 @@
 
 
 <a href="https://www.linkedin.com/in/nithin-rajulapati-69133a1aa/">
-  <img align="left" alt="Monesh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt=" Nithin Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/Nani1-glitch">
-  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt=" Nithin Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UCfruPP7UeiG7mhLMeXYO51g">
-  <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+< :
+
+
 </a>
 
 <br/>
@@ -18,7 +19,7 @@
 
 
 
-- 🔭 I’m currently working as an instructor [UDEMY](https://www.udemy.com/course/ethical-hacking-zero-to-professional/).
+- 🔭 I’m an instructor [UDEMY](https://www.udemy.com/course/ethical-hacking-zero-to-professional/).
 - 🌱 I’m currently learning more about Artificial Intelligence and Neural Networks.
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCfruPP7UeiG7mhLMeXYO51g).
 - 🤔 I’m looking for help with career guidance.
