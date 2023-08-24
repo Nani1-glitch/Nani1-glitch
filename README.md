@@ -1,4 +1,4 @@
-## Hola, we are [Nithin Rajulapati & Lalitha Velagapudi](https://nani1-glitch.github.io/portfolio/) 👋
+## Hola, I am [Nithin Rajulapati](https://nani1-glitch.github.io/portfolio/) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="nithin & lalitha" /> </p>
 
