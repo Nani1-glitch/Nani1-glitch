@@ -1,6 +1,6 @@
 ## Hola, I am [Nithin Rajulapati](https://nani1-glitch.github.io/portfolio/) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="nithin & lalitha" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="nithin" /> </p>
 
 
 <a href="https://www.linkedin.com/in/nithin-rajulapati-69133a1aa/">
