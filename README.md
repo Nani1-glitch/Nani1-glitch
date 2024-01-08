@@ -25,7 +25,7 @@
 - 🤔 I’m looking for help with career guidance.
 - 💬 Ask me about Python, AI, Machine learning or any tech related stuff.
 - 📫 How to reach me: [Linkedin - @Nithin Rajulapati](https://www.linkedin.com/in/nithin-rajulapati-69133a1aa/) , [Youtube - @Apollo'sLearning](https://www.youtube.com/channel/UCfruPP7UeiG7mhLMeXYO51g)
-- 😄 Pronouns: He/His or She/Her
+- 😄 Pronouns: He/His
 - ⚡ Fun fact: I would love to work with same minded people like me as a Family.
 
 [![Linkedin: NithinRajulapati](https://img.shields.io/badge/-NithinRajulapati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nithin-rajulapati-69133a1aa/)](https://www.linkedin.com/in/nithin-rajulapati-69133a1aa/)
