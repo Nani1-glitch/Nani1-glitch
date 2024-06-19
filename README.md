@@ -3,16 +3,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nani1-glitch&label=Views&color=blue&style=plastic" alt="nithin" /> </p>
 
 <a href="https://www.linkedin.com/in/nithin-rajulapati-69133a1aa/">
-  <img align="left" alt=" Nithin LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Nithin LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/Nani1-glitch">
-  <img align="left" alt=" Nithin GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Nithin GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCfruPP7UeiG7mhLMeXYO51g">
-  <img align="left" alt=" Nithin YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left" alt="Nithin YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<a href="https://www.instagram.com/your_instagram_handle/">
-  <img align="left" alt=" Nithin Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/nithin_rajulapati/">
+  <img align="left" alt="Nithin Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <br/>
@@ -23,7 +23,7 @@
 - 👯 I’m looking to collaborate on [YouTube](https://www.youtube.com/channel/UCfruPP7UeiG7mhLMeXYO51g).
 - 🤔 I’m looking for help with career guidance.
 - 💬 Ask me about Python, AI, Machine Learning, or any tech-related stuff.
-- 📫 How to reach me: [LinkedIn - @Nithin Rajulapati](https://www.linkedin.com/in/nithin-rajulapati-69133a1aa/), [YouTube - @Apollo'sLearning](https://www.youtube.com/channel/UCfruPP7UeiG7mhLMeXYO51g), [Instagram](https://www.instagram.com/your_instagram_handle/)
+- 📫 How to reach me: [LinkedIn - @Nithin Rajulapati](https://www.linkedin.com/in/nithin-rajulapati-69133a1aa/), [YouTube - @Apollo'sLearning](https://www.youtube.com/channel/UCfruPP7UeiG7mhLMeXYO51g), [Instagram](https://www.instagram.com/nithin_rajulapati/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I would love to work with like-minded people as a family.
 
@@ -50,8 +50,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nani1-glitch&layout=compact&theme=radical)](https://github.com/Nani1-glitch/github-readme-stats)
 
 ## 📈 Social Stats
-[![LinkedIn: Nithin Rajulapati](https://img.shields.io/badge/dynamic/json?color=blue&label=LinkedIn%20followers&query=linkedinFollowers&url=https://api.linkedin.com/v2/me&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nithin-rajulapati-69133a1aa/)
-[![Instagram: Nithin Rajulapati](https://img.shields.io/badge/dynamic/json?color=purple&label=Instagram%20followers&query=instagramFollowers&url=https://api.instagram.com/v1/users/self&style=flat-square&logo=instagram)](https://www.instagram.com/your_instagram_handle/)
+[![LinkedIn: Nithin Rajulapati](https://img.shields.io/badge/dynamic/json?color=blue&label=LinkedIn%20followers&query=followersCount&url=https://api.linkedin.com/v2/me?oauth2_access_token=YOUR_ACCESS_TOKEN&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nithin-rajulapati-69133a1aa/)
+[![Instagram: Nithin Rajulapati](https://img.shields.io/badge/dynamic/json?color=purple&label=Instagram%20followers&query=followers_count&url=https://www.instagram.com/nithin_rajulapati/?__a=1&style=flat-square&logo=instagram)](https://www.instagram.com/nithin_rajulapati/)
 
 <div align="center">
   
