@@ -1,6 +1,6 @@
 ## Hola, I am [Nithin Rajulapati](https://nithinrajulapati.info/) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nani1-glitch&label=Views&color=blue&style=plastic" alt="nithin" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nani1-glitch&label=DailyViews&color=blue&style=plastic" alt="nithin" /> </p>
 
 <a href="https://www.linkedin.com/in/nithin-rajulapati-69133a1aa/">
   <img align="left" alt="Nithin LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
