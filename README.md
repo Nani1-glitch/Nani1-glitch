@@ -49,6 +49,10 @@
 ![Nithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nani1-glitch&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nani1-glitch&layout=compact&theme=radical)](https://github.com/Nani1-glitch/github-readme-stats)
 
+## 📈 Social Stats
+[![LinkedIn: Nithin Rajulapati](https://img.shields.io/badge/dynamic/json?color=blue&label=LinkedIn%20followers&query=followersCount&url=https://api.linkedin.com/v2/me?oauth2_access_token=YOUR_ACCESS_TOKEN&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nithin-rajulapati-69133a1aa/)
+[![Instagram: Nithin Rajulapati](https://img.shields.io/badge/dynamic/json?color=purple&label=Instagram%20followers&query=followers_count&url=https://www.instagram.com/nithin_rajulapati/?__a=1&style=flat-square&logo=instagram)](https://www.instagram.com/nithin_rajulapati/)
+
 <div align="center">
   
 ### Show some ❤️ by starring the repositories!
