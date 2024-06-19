@@ -11,6 +11,9 @@
 <a href="https://www.youtube.com/channel/UCfruPP7UeiG7mhLMeXYO51g">
   <img align="left" alt=" Nithin YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
+<a href="https://www.instagram.com/your_instagram_handle/">
+  <img align="left" alt=" Nithin Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
 <br/>
 <br/>
@@ -20,7 +23,7 @@
 - 👯 I’m looking to collaborate on [YouTube](https://www.youtube.com/channel/UCfruPP7UeiG7mhLMeXYO51g).
 - 🤔 I’m looking for help with career guidance.
 - 💬 Ask me about Python, AI, Machine Learning, or any tech-related stuff.
-- 📫 How to reach me: [LinkedIn - @Nithin Rajulapati](https://www.linkedin.com/in/nithin-rajulapati-69133a1aa/), [YouTube - @Apollo'sLearning](https://www.youtube.com/channel/UCfruPP7UeiG7mhLMeXYO51g)
+- 📫 How to reach me: [LinkedIn - @Nithin Rajulapati](https://www.linkedin.com/in/nithin-rajulapati-69133a1aa/), [YouTube - @Apollo'sLearning](https://www.youtube.com/channel/UCfruPP7UeiG7mhLMeXYO51g), [Instagram](https://www.instagram.com/your_instagram_handle/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I would love to work with like-minded people as a family.
 
@@ -45,6 +48,10 @@
 ## 📊 GitHub Stats
 ![Nithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nani1-glitch&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nani1-glitch&layout=compact&theme=radical)](https://github.com/Nani1-glitch/github-readme-stats)
+
+## 📈 Social Stats
+[![LinkedIn: Nithin Rajulapati](https://img.shields.io/badge/dynamic/json?color=blue&label=LinkedIn%20followers&query=linkedinFollowers&url=https://api.linkedin.com/v2/me&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nithin-rajulapati-69133a1aa/)
+[![Instagram: Nithin Rajulapati](https://img.shields.io/badge/dynamic/json?color=purple&label=Instagram%20followers&query=instagramFollowers&url=https://api.instagram.com/v1/users/self&style=flat-square&logo=instagram)](https://www.instagram.com/your_instagram_handle/)
 
 <div align="center">
   
