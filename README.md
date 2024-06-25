@@ -52,6 +52,7 @@
 
 ## 📊 GitHub Stats
 ![Nithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nani1-glitch&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nani1-glitch&layout=compact&theme=radical)](https://github.com/Nani1-glitch/github-readme-stats)
 
 ## 📈 Social Stats
